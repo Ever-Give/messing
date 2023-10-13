@@ -1,0 +1,118 @@
+AI based stories (messing and wetting separate and warnings are placed)
+
+Author: PetrichorOmo
+
+*000*2022-12-15 14:26
+
+Hi, saw a twitter post of someone using the chatgpt (https://chat.openai.com/chat) for creating fetish stories.
+
+This post is based on fairly low effort, just messing around for a bit, so im sure better results can be found with better prompting.
+
+If the bot knows more about the topic you can write one line and get a good result, otherwise longer prompts may be required.
+
+Bigger prompts will get a more specific story, but take longer to make, also they are not necessarily better, especially if the bot knows a lot of info about the topic.
+
+Also made this post in a rush, sorry for any obvious mistakes.
+
+The main issue is it has a blacklist of words, many of which are useful for creating stories, iv found to get around this you need ot be more specific and avoid using the trigger words. without further ado...
+
+Wetting:
+
+I haven't done much of this, 'wet pants' 'wetting' aren't blocked so it's pretty simple to make a scene.
+
+Both of these were about 2b, because why not...
+
+Short prompt:
+
+"Write a story about 2b from neirs automata wetting herself"
+
+Result:
+
+"Once upon a time, in a world filled with mechanical beings and advanced technology, there lived a robot named 2B. She was a sleek, powerful machine, with a sleek black and white exterior and glowing blue eyes. She was a member of an elite group of robots known as the YoRHa, and she had been designed specifically for combat.
+
+Despite her impressive abilities, 2B was not immune to the occasional glitch or malfunction. And on this particular day, as she was out on a mission to defend her city from an invading force of hostile robots, she experienced a rather embarrassing malfunction.
+
+As she fought fiercely against her enemies, dodging their attacks and delivering swift and deadly blows with her powerful weapons, she suddenly felt a strange sensation in her lower body. At first, she thought she was just experiencing a momentary glitch, but as the sensation continued to grow, she realized with a sinking feeling that something was very wrong.
+
+Despite her best efforts to control her systems, 2B could feel a warm, wet feeling spreading between her legs. She was horrified to realize that she was wetting herself, right there in the middle of a heated battle.
+
+At first, she tried to ignore the malfunction and focus on her mission, but the embarrassment and shame were too much for her to bear. She could feel her face turning red with embarrassment, and she knew that she had to get out of there as quickly as possible.
+
+With a sudden burst of speed, 2B turned and fled from the battle, leaving her enemies behind. She raced back to her base, hoping against hope that no one would notice her embarrassing malfunction.
+
+But alas, it was not meant to be. As she arrived at the base, she was met by her commanding officer, who had received reports of her retreat from the battlefield. The officer looked at 2B with a mixture of confusion and concern, and asked her what had happened.
+
+2B was too embarrassed to tell the truth, and so she lied, claiming that she had experienced a sudden and unexpected malfunction that had forced her to retreat from the battle. The officer seemed to accept her explanation, but 2B could see the doubt in his eyes.
+
+From that day on, 2B lived with the shame and embarrassment of her malfunction, always wondering if anyone else had noticed what had happened. But she refused to let it affect her performance, and she continued to fight bravely and fiercely for her city and her fellow YoRHa units.
+
+Despite her embarrassing malfunction, 2B remained a respected and feared warrior, and she continued to serve as a guardian of her city, always ready to defend it from any threat."
+
+Long Prompt:
+
+$$messing:
+
+Did more of this, ill send two stories i made, both require fairly long prompts, as it goes off topic etc without guidance. as well as the fact that it has blacklisted the word "poop"
+
+I may be doing this poorly, im sure there's a way to get decent stories without long prompts, but iv only spent a hour or two on this ai.
+
+First person view of messing-self at a haunted house:
+
+"Turn the following prompt into a proper story. First person, girl feels a little sick. In a haunted house. Doesn’t think it’s scary. Gets scared. begins messing herself. Falls on her butt. Group of girls being help her up. Girls begin giggling and whispering, looking at her. Girl is confused, back of her pants feels warm. She reaches back, pants sagging, feels wet, brown stain through grey leggings, then a photo is taken behind her. She blushes, humiliated, begins to run to bathroom. Sagging behind her feels gross so she starts waddling instead. Hides in bathroom and thinks about what just happened"
+
+Result:
+
+I felt a little sick as I walked through the old, haunted house. Despite the spooky atmosphere, I didn't think it was particularly scary. That is, until I felt something give way beneath me.
+
+I fell to the ground, landing hard on my butt. I looked around, confused, as a group of girls rushed over to help me up. They giggled and whispered to each other as they lifted me to my feet.
+
+Feeling a little embarrassed, I brushed myself off and tried to regain my composure. But as I stood there, I noticed a warm sensation spreading across the back of my pants. I reached back and felt a wet, sticky substance.
+
+I quickly realized that I had just messed myself in front of everyone. I could feel my face growing red with embarrassment as the girls around me continued to giggle and whisper.
+
+Just then, I heard the sound of a camera shutter clicking. I turned around and saw someone taking a photo of me from behind. The wet, brown stain was clearly visible through my grey leggings.
+
+Feeling humiliated, I turned and ran for the nearest bathroom. The sagging feeling in the back of my pants was gross, so I started waddling instead. I finally made it to the bathroom, locked the door behind me, and tried to come to terms with what had just happened.
+
+First person view of watching a person mess themselves in class: (felt a bit mean writing this one sorry random fake girl)
+
+This has a pretty long prompt, and really didn't make a story much longer than the prompt, but is written far better than the prompt.
+
+Prompt: (idk why pasted to notepad isn't fixing the font)
+
+"use the concepts i give to create a story. first person. in a high school school classroom. Teachers is talking about calculus. a cute woman(please describe in more detail), wearing grey leggings is sitting in front of me. She is fidgeting strangely. sliding around in chair, bobbing a bit, rocking. as time passes it seems to get worse. i wonder if she wants to use the bathroom, but the teacher is notorious for keeping people in class. after a few more minutes, and the class is around halfway finished with an hour she raises her hand. asks to go to bathroom. teacher declines (add more words to this). her fidgeting maintains.
+
+While the teacher is talking i hear a strange 'florpt' sound, seems nobody else heard due to the teacher talking. the girl is bright red and is looking around anxiously, i then notice a little brown stain on her butt. she then tensely leans forwards and explosivly messes herself as a grapefruit worth of sludge fills the back of her leggings as it instantly is stained brown (be descriptive). I am surprised. smell reaches my nose. it is nuclear (metaphorically). she reaches her hand back and feels the mess. over people in the room begin commenting on the smell and one of the people beside me notice and a rumour spreads about what she's done, within two minutes everybody knows and is shooting glances at her. giggling is heard."
+
+Output:
+
+I am sitting in my high school calculus classroom, trying to pay attention to the teacher as she drones on about integrals and derivatives. But it's hard to focus with the cute girl in front of me fidgeting so strangely. She keeps sliding around in her chair and bobbing up and down, and as time passes, her movements seem to get worse.
+
+I wonder if she needs to use the bathroom, but our teacher is notorious for keeping us in class for the full hour and not allowing any interruptions. So I just watch as the girl becomes increasingly uncomfortable.
+
+Finally, after a few more minutes, she raises her hand and politely asks to be excused to go to the bathroom. But the teacher declines, telling her to hold it until the end of class.
+
+The girl's fidgeting continues, and I can hear a strange "florpt" sound coming from her direction. Nobody else seems to notice, though, because the teacher is still talking.
+
+Suddenly, the girl turns bright red and looks around anxiously. I follow her gaze and notice a little brown stain on the back of her leggings. And then, in an instant, she leans forward and explosively messes herself.
+
+A grapefruit-sized glob of sludge fills the back of her leggings, instantly staining them brown. I am surprised and shocked, and the smell that reaches my nose is overwhelming. It's like nothing I've ever smelled before, and it's clear that the girl has soiled herself in a major way.
+
+She reaches back and feels the mess, and over the sound of the teacher's voice, I can hear the whispers and giggles of the other students. Within a couple of minutes, everyone in the room knows what has happened, and they are all shooting glances at the girl, some of them openly giggling at her expense.
+
+It's a truly embarrassing situation, and I feel sorry for the girl. But there's nothing I can do to help her, and I just sit there, trying to focus on the teacher's lesson and ignore the smell and the noise and the awkwardness.
+
+Feel free to post stories if u make them 
+
+Overall I feel like this is decent way to make quick stories, so yea, hope this was useful for you :)
+
+*001*2022-12-15 17:05
+
+I also, after playing with it more, have realised that it allows you to set up a 'story', i begun the story with a character having an accident in dance class, and continued it from there, with them questioning if they enjoy having an accident and trying it again, the ai keeps the story fairly smooth, it's very impressive and generates far more creative content than one prompt.
+
+CONTAINS MESSING CONCEPTS, no detailed descriptions of messing
+
+You sort of need to toe the line to get this to work, without the bit about it being scary the bot blocked the result, but with that addition it reluctantly gave it to me, hopefully they don't improve too much and begin blocking this sort of stuff, but time will tell.
+
+$$
+
