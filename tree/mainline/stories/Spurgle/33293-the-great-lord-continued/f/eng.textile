@@ -8,7 +8,7 @@ The second part of a 3 part story (providing people want it :D
 
 Here is the first part :)
 
-$iframe data-embedcontent="" frameborder="0" src="//www.omorashi.org/applications/core/interface/js/spacer.png" data-embed-src="https://www.omorashi.org/topic/33208-the-great-lord/?do=embed"
+$/33208-the-great-lord/
 
 A deafening silence filled the hall and all eyes turned to where the voice emanated from, Adam scanned the room curiously, his sword still to the man’s throat. Adam could hear footsteps approaching, heavy strides he thought, the man was walking with purpose and authority.
 
