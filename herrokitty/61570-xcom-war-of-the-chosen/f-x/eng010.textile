@@ -1,0 +1,854 @@
+XCOM: War of the Chosen
+
+Author: herrokitty
+
+*010*2022-06-27 05:46
+
+I've been meaning to finish this one off for a while - I don't have any other fiction ideas at the moment, unfortunately, but wanted to wrap up loose ends. I experimented with less traditional ways of putting things together here and am not sure if it's enjoyable like this or not, but thought I'd put it out there in case anyone does like it.
+
+From: Central
+
+To: Commander
+
+Subject: Experiment Debrief
+
+Date: 7/2/2035
+
+Grateful for another successful mission, another Elder Chosen dead. And we didn’t lose a single soldier. Regardless of their… issues, Zilant & Wyvern are now our two most successful squads and I’m grateful for their work.
+
+Here is the report on the experiment. Not sure what you and the eggheads plan to do with this data, but hope it helps them.
+
+Wyvern
+
+Marguerite “Snake Eyes” Dupont, France, assault
+
+Bladder: 507 mL
+
+Bowels: 472 g
+
+Xuanji “Doc” Jiang, China, support
+
+Bladder: 201 mL
+
+Bowels: 677 g
+
+Jessie “Deep Six” Edwards, UK, grenadier
+
+Bladder: 109 mL
+
+Bowels: 202 g
+
+Anastasia “Ghost” Davydov, Russia, Reaper
+
+Bladder: 76 mL
+
+Bowels: 47 g
+
+Jane “Quiet” Kelly, Ireland, assault
+
+Bladder: 91 mL
+
+Bowels: 99 g
+
+Bridget “Oracle” McGregor, Scotland, psi operative
+
+Bladder: 782 mL
+
+Bowels: 93 g
+
+Zilant
+
+Astrid “Vandal” Gaustad, Norway, assault
+
+Bladder: 377 mL
+
+Bowels: 91 g
+
+Ginevra “Vita” Contarini, Italy, support
+
+Bladder: 499 mL
+
+Bowels: 277 g
+
+Hannah “Vixen” Campbell, Australia, sniper
+
+Bladder: 101 mL
+
+Bowels: 501 g
+
+Yessica “Volt” Castro, Templar
+
+Bladder: 799 mL
+
+Bowels: 511 g
+
+Millie “Valkyrie” Kahl, Germany, sniper
+
+Bladder: 220 mL
+
+Bowels: 299 g
+
+Monifa “Valentine” Akerele, Nigeria, grenadier
+
+Bladder: 77 mL
+
+Bowels: 41 g
+
+Summary
+
+As suspected, psionic powers reduce bladder capacity and Yessica and Bridget’s numbers indicate their bladder not only entirely emptied, but partially re-filled and emptied again during the mission. However, it’s inconclusive if it affects bowels. Bridget, it seems, has above average bowel control while Yessica does not. Marguerite, Ginevre, and possibly Astrid lost bladder control entirely at some point, their number in the normal range for a bladder’s capacity - 400-600 mL. Marguerite & Yessica seemed to experience total bowel loss, with bowel capacity in humans averaging between 400-600 grams. However, lower bladder control doesn’t seem entirely correlated with lower bowel control. Hannah & Xuanji did not entirely empty their bladders but did empty their bowels. On the other spectrum, Monifa, Jane, & Anastasia demonstrated near-continence.
+
+Recommendation
+
+We recommend dividing up the team members into three categories of protective undergarments. We need more data to confirm the categories the women are in, and to determine if incontinence is improving or weakening. However, our initial recommendation is:
+
+Padded panties - These are discreet, with padding for minor bladder loss. They are full cut panties that are specially designed to be easily washable in case of small bowel loss. The upside is less mobility concerns and no potential visibility issues regardless of clothing type, along with probable psychological benefits to the soldier.
+
+Jane Kelly
+
+Monifa Akerele
+
+Anastasia Davydov
+
+Pull-ups - These can be pulled up or down like panties and are generally not visible regardless of clothing type, but wearers not used to them will notice in strenuous activity and may need to develop a routine regarding baby powder or other anti-rash equipment. Ours are especially designed to handle medium-level leaks up to a full bladder loss and can contain some bowel loss. A full bowel loss may result in leakage.
+
+Jessie Edwards
+
+Astrid Gaustad
+
+Millie Kahl
+
+Ginevra Contarini - borderline, need more data
+
+Tape-up diapers - These are full diapers that may be difficult to put on by the operator, though some may be able to do so. Baggier clothing is needed to avoid visibility concerns, but these can contain multiple full wetting accidents and a full messing accident. Yessica has a stock of a version compatible with her armor; we recommend duplicating these for Bridget.
+
+Yessica Castro
+
+Bridget McGregor
+
+Marguerite Dupont
+
+Xuanji Jiang
+
+Hannah Campbell
+
+From: Central
+
+To: Commander
+
+Subject: Longitudinal Study Check-In
+
+Date: 8/9/2035
+
+Congratulations on the continued successes. Here’s the data in progress from Wyvern & Zilant since starting our measurement of female continence.
+
+Summary
+
+Protection has provided a boon for the propaganda department, and far more footage of Wyvern & Zilant’s missions have been used. The realization that partial incontinence is common in both squads has also ended tensions, allowing the squads to work together more successfully. From a combat and strategy standpoint, we can consider this a success.
+
+As a study on female incontinence, we do not have enough data yet to determine if incontinence is getting better or worse, but we do have a baseline to compare them to from civilian volunteers for our experiment. They were exposed to similar situations via virtual reality. Interestingly, our soldiers, despite being well trained and able to ignore incontinence during combat situations, are not any more continent than civilians without previous exposure to aliens or military training. Our initial hypothesis is that combat training has no impact on continence and the aliens don’t either - this is normal for human women who encounter hostile aliens.
+
+Our categorization of squad members for the three different types of incontinence equipment seems to have hit the mark. We recommend keeping everyone in the current category of undergarment, with the understanding that occasionally the padded panties and pull-up users will have a lapse in control that may be beyond the capacity, but that it is rare enough to be worth the mobility, flexibility, and confidence boost to the wearer.
+
+How to interpret the data:
+
+Name
+
+Bladder data:
+
+Wetting accidents (out of 7 missions, defined by leakage greater than 50 mL)
+
+Bladder size - small (<350 mL), below average (350-450 mL), average (450-500 mL), above average (500-550 mL), large (550+ mL)
+
+Bladder control - incontinent, below average, average, above average, continent
+
+Bowel data:
+
+Bowel size - small (<300 g), below average (300-350 g), average (350-450 g), above average (450-500 g), large (>500 g)
+
+Messing accidents (out of 7 missions, defined by expulsion greater than 20 g)
+
+Bowel control - incontinent, below average, average, above average, continent
+
+Astrid “Vandal” Gaustad, Norway, assault
+
+Bladder
+
+7/7
+
+Size: Small
+
+Rating: Below Average
+
+Bowels
+
+1/7
+
+Size: Average
+
+Rating: Above Average
+
+Ginevra “Vita” Contarini, Italy, support
+
+Bladder
+
+7/7
+
+Size: Average
+
+Rating: Below Average
+
+Bowels
+
+4/7
+
+Size: Average
+
+Rating: Below Average
+
+Hannah “Vixen” Campbell, Australia, sniper
+
+Bladder
+
+3/7
+
+Size: Above Average
+
+Rating: Above Average
+
+Bowels
+
+7/7
+
+Size: Above Average
+
+Rating: Incontinent
+
+Yessica “Volt” Castro, Templar
+
+Bladder
+
+7/7
+
+Size: Average
+
+Rating: Incontinent
+
+Bowels
+
+5/7
+
+Size: Above Average
+
+Rating: Below Average
+
+Millie “Valkyrie” Kahl, Germany, sniper
+
+Bladder
+
+4/7
+
+Size: Average
+
+Rating: Average
+
+Bowels
+
+3/7
+
+Size: Average
+
+Rating: Average
+
+Monifa “Valentine” Akerele, Nigeria, grenadier
+
+Bladder
+
+1/7
+
+Size: Large
+
+Rating: Above Average
+
+Bowels
+
+1/7
+
+Size: Large
+
+Rating: Above Average
+
+Marguerite “Snake Eyes” Dupont, France, assault
+
+Bladder
+
+7/7
+
+Size: Small
+
+Rating: Below Average
+
+Bowels
+
+6/7
+
+Size: Below Average
+
+Rating: Below Average
+
+Xuanji “Doc” Jiang, China, support
+
+Bladder
+
+4/7
+
+Size: Above Average
+
+Rating: Average
+
+Bowels
+
+7/7
+
+Size: Large
+
+Rating: Below Average
+
+Jessie “Deep Six” Edwards, UK, grenadier
+
+Bladder
+
+3/7
+
+Size: Average
+
+Rating: Above Average
+
+Bowels
+
+1/7
+
+Size: Average
+
+Rating: Above Average
+
+Anastasia “Ghost” Davydov, Russia, Reaper
+
+Bladder
+
+2/7
+
+Size: Small
+
+Rating: Above Average
+
+Bowels
+
+1/7
+
+Size: Small
+
+Rating: Above Average
+
+Jane “Quiet” Kelly, Ireland, assault
+
+Bladder
+
+1/7
+
+Size: Average
+
+Rating: Above Average
+
+Bowels
+
+2/7
+
+Size: Large
+
+Rating: Average
+
+Bridget “Oracle” McGregor, Scotland, psi operative
+
+Bladder
+
+7/7
+
+Size: Average
+
+Rating: Incontinent
+
+Bowels
+
+1/7
+
+Size: Above Average
+
+Rating: Above Average
+
+From: Central
+
+To: Commander
+
+Subject: Longitudinal Study Report
+
+Date: 9/12/2035
+
+I hear we are close to winning this war. As such, this is the final report of our scientists regarding continence among women.
+
+Abstract
+
+There were questions about the alien invasion’s impact on female continence. Anecdotally, witnessing female incontinence from soldiers and civilians seems to have increased. There are two parts of this study: a study of civilians, both those with a lot of exposure to aliens and those with a little, in various high-stress circumstances through virtual reality, to measure and compare continence. The second part is the use of soldiers from two all-female XCOM squads to measure their continence or lack thereof throughout missions to see if continence changes over time.
+
+We have discovered that there is a measurable increase in incontinence with civilians who have more exposure to aliens being less continent while the two XCOM squads had a higher rate of accidents as their missions went on. However, while statistically significant, this was a relatively small shift. The lion’s share of the reported increase in accidents seems to just be the fear factor of facing a hostile alien species. It is still unclear, though, whether this shift from alien exposure is the product of a tangible action by the aliens or just the psychological impact of exposure to hostile aliens. Evidence of psychological correlation rather than causation is that soldiers with higher fear responses tended to struggle the most with continence.
+
+One aside as well is that the size of the bladder or bowels does not seem to be heavily correlated with control. Some civilians and soldiers with small bladders or bowels had more leaks, but others were relatively in control. Thus, determining protective undergarments for soldiers was a combination of size and continence. Additionally, while all women studied experienced regular bouts of loss of control, entire bladder or bowel emptying in a singular event was not that common. Only three soldiers in the study experienced this regularly and were thus deemed incontinent. We can conclude with certainty that psionic powers in women does result in total bladder incontinence - this explained the incontinence for two of the soldiers.
+
+Research Data Part 1: Soldiers
+
+Astrid “Vandal” Gaustad, Norway, assault
+
+Bladder
+
+Size: Small
+
+Rating: Below Average
+
+Bowels
+
+Size: Average
+
+Rating: Above Average
+
+Underwear: Pullups
+
+Past 5 missions:
+
+Mission 1: Partial loss of bladder control (201 mL), no loss of bowel control
+
+Mission 2: Total loss of bladder control (361 mL), no loss of bowel control
+
+Mission 3: Partial loss of bladder control (207 mL), minor loss of bowel control (57 g)
+
+Mission 4: Partial loss of bladder control (199 mL), no loss of bladder control
+
+Mission 5: Partial loss of bladder control (217 mL), partial loss of bowel control (162 g)
+
+Commentary: Gaustad is firmly in the pullups category, without a single accident that her pullups could not handle. Bladder leaks are common, and she seems to have a limited capacity - leaks seem less about fear or psychological harm but more about just having a small bladder. Ironically, this saves her in the rare occasion she has completely emptied her bladder, with even a full loss of control contained by her pullups. Her bowel control is in the top 5% of women tested; if her bladder was similar to her bowels, she would be promoted to padded panties. While her loss of bladder control occurs often whenever there is a prolonged period away from a restroom, loss of bowel control seems to only occur when a combination of fear-inducing circumstances and not having relief for an extended period is present. Overall, Gaustad is a calm presence and a trusted leader on the battlefield - this demeanor has definitely helped her continence.
+
+Ginevra “Vita” Contarini, Italy, support
+
+Bladder
+
+Size: Average
+
+Rating: Below Average
+
+Bowels
+
+Size: Average
+
+Rating: Below Average
+
+Underwear: Pullups
+
+Past 5 missions:
+
+Mission 1: Partial loss of bladder control (271 mL), partial loss of bowel control (171 g)
+
+Mission 2: Minor loss of bladder control (91 mL), minor loss of bowel control (57 g)
+
+Mission 3: Total loss of bladder control (501 mL), partial loss of bowel control (163 g)
+
+Mission 4: Partial loss of bladder control (224 mL), partial loss of bowel control (199 g)
+
+Mission 5: Total loss of bladder control (477 mL), total loss of bowel control (401 g)
+
+Commentary: Contarini was and continues to be considered borderline between pullups and tape-up diapers. If our study scope wasn’t ending soon, the direction of her accidents, which seem to be increasing in frequency and size, would warrant a switch to tape-ups. As such, there were only two missions that the pullups failed in, both within the past three missions. In one, she entirely emptied her bladder out of fear in combat, causing the pullups to leak. The wetness on her pants, while easily visible, were not so apparent as to warrant any embarrassment for her or cause any problems for the propaganda department regarding mission footage.
+
+The most recent accident, however, was a total loss of control of her bowels and bladder, resulting in her pullups entirely failing. Her pants were visibly wet and soiled, leading to all footage with her visible having to be deleted. Contarini does have a loss of control when afraid or stressed in combat, and does not seem to notice in the moment, but she also just seems to have limited control. When her bladder or bowels feel full, compared to her peers, Contarini cannot hold for very long before leakage occurs.
+
+Hannah “Vixen” Campbell, Australia, sniper
+
+Bladder
+
+Size: Above Average
+
+Rating: Above Average
+
+Bowels
+
+Size: Above Average
+
+Rating: Incontinent
+
+Underwear: Tape-Up Diaper
+
+Past 5 missions:
+
+Mission 1: Minor loss of bladder control (79 mL), total loss of bowel control (471 g)
+
+Mission 2: Minor loss of bladder control (81 mL), total loss of bowel control (455 g)
+
+Mission 3: Partial loss of bladder control (199 mL), total loss of bowel control (488 g)
+
+Mission 4: Minor loss of bladder control (89 mL), total loss of bowel control (457 g)
+
+Mission 5: Partial loss of bladder control (201 mL), total loss of bowel control (491 g)
+
+Commentary: The most noticeable part of Campbell’s history is her near total incontinence with her bowels. We are unsure if this is physical or psychological. Campbell has veteran experience with long-distance sniping, having trained by waiting hours for her mark. We believe this may have reduced her control of her bowels, as it distracted from her work as a sniper. It is acceptable practice for snipers to relieve themselves as they lay so they can continue to operate their perch and observe.
+
+This, however, doesn’t explain Campbell’s above average control of her bladder, though she stated she doesn’t feel embarrassed by accidents at all and would feel totally fine with emptying her bladder if need be. True to her word, her accidents are frequently her letting go preemptively before battle so as to not distract her in combat. While this style serves her well in terms of managing fear and shutting out distractions, this guarantees she will stay in tape-up diapers for her duration of combat service; fortunately, this prospect does not bother her in the slightest. Campbell is proficient at changing her own tape-up diapers, which not all users are capable of.
+
+Yessica “Volt” Castro, Templar
+
+Bladder
+
+Size: Average
+
+Rating: Incontinent
+
+Bowels
+
+Size: Above Average
+
+Rating: Below Average
+
+Underwear: Tape-Up Diaper
+
+Past 5 missions:
+
+Mission 1: Total loss of bladder control (477 mL), minor loss of bowel control (61 g)
+
+Mission 2: Total loss of bladder control (511 mL), partial loss of bowel control (141 g)
+
+Mission 3: Total loss of bladder control x2 (899 mL), partial loss of bowel control (157 g)
+
+Mission 4: Total loss of bladder control (501 mL), total loss of bowel control (301 g)
+
+Mission 5: Total loss of bladder control x2 (901 mL), total loss of bowel control (327 g)
+
+Commentary: Like all female psionic operatives, Castro has essentially no control of her bladder. Especially when she uses her powers, her bladder flows freely - this leads to her even emptying her bladder multiple times in a mission. Contrasted to McGregor, though, Castro also has relatively weak bowel control. It’s unclear if after years of already operating in tape-up diapers, she has essentially trained herself to let go when needed. Castro is a soldier who manages fear well; her loss of bowel control seems to be purely about holding capacity and avoiding distractions.
+
+Millie “Valkyrie” Kahl, Germany, sniper
+
+Bladder
+
+Size: Average
+
+Rating: Average
+
+Bowels
+
+Size: Average
+
+Rating: Average
+
+Underwear: Pullups
+
+Past 5 missions:
+
+Mission 1: Minor loss of bladder control (91 mL), minor loss of bowel control (41 g)
+
+Mission 2: Partial loss of bladder control (181 mL), minor loss of bowel control (47 g)
+
+Mission 3: Minor loss of bladder control (87 mL), partial loss of bowel control (144 g)
+
+Mission 4: Partial loss of bladder control (201 mL), partial loss of bowel control (128 g)
+
+Mission 5: Total loss of bladder control (474 mL), total loss of bowel control (401 g)
+
+Commentary: Kahl’s continence has neither been particularly strong nor concerningly weak, though it has trended negatively. She is another candidate for transitioning to tape-up diapers if the study were to go longer. Kahl would likely resist this, as she is reluctant to admit she has an incontinence issue and in fact has petitioned to be moved to padded panties, despite no evidence to support this. Kahl’s incontinence seems driven by fear in battle. Make no mistake, Kahl is an exemplary soldier whose fear-induced losses of control do not cause her to freeze in battle or make critical errors, but her bladder and bowels seem to have a mind of their own. Despite the fear-based incontinence, Kahl rarely entirely lets go. Only one mission did this occur, and this was also her only pullup failure. Due to the large number of soldiers experiencing heavier than usual losses of control in this mission, very little footage was used by the propaganda department.
+
+Monifa “Valentine” Akerele, Nigeria, grenadier
+
+Bladder
+
+Size: Large
+
+Rating: Above Average
+
+Bowels
+
+Size: Large
+
+Rating: Above Average
+
+Underwear: Padded panties
+
+Past 5 missions:
+
+Mission 1: Minor loss of bladder control (71 mL), no loss of bowel control
+
+Mission 2: Minor loss of bladder control (67 mL), minor loss of bowel control (33 g)
+
+Mission 3: Minor loss of bladder control (41 mL), minor loss of bowel control (41 g)
+
+Mission 4: Partial loss of bladder control (171 mL), no loss of bowel control
+
+Mission 5: Minor loss of bladder control (21 mL), no loss of bowel control
+
+Commentary: Akerele has perhaps the best continence among our soldiers and ranks in the top 1% of all test subjects, soldiers and civilians. Two factors play to her advantage. One, she has a larger than average capacity and this seems to help her hold it for longer periods of time. Second, Akerele does not seem to have an issue with fear in combat. Her losses of control are minor because they appear to be stress induced, not fear - hard exercise, running, jumping, etc. that jostles her body results in minor leaks, but nothing that even comes close to the capacity of her padded panties. Only once did she use her panties to capacity - in this particular instance, she had apparently been unable to visit the bathroom before the mission, making her partial loss of control still impressive given the circumstances.
+
+Marguerite “Snake Eyes” Dupont, France, assault
+
+Bladder
+
+Size: Small
+
+Rating: Below Average
+
+Bowels
+
+Size: Below Average
+
+Rating: Below Average
+
+Underwear: Tape-Up Diaper
+
+Past 5 missions:
+
+Mission 1: Partial loss of bladder control (191 mL), partial loss of bowel control (127 g)
+
+Mission 2: Total loss of bladder control (349 mL), partial loss of bowel control (141 g)
+
+Mission 3: Partial loss of bladder control (201 mL), partial loss of bowel control (187 g)
+
+Mission 4: Partial loss of bladder control (187 mL), total loss of bowel control (301 g)
+
+Mission 5: Total loss of bladder control (331 mL), total loss of bowel control (320 g)
+
+Commentary: Dupont has consistently had one of the weakest bladders and bowels among those we study. While not incontinent, - in normal situations, Dupont has no issues going to the bathroom and knowing when she needs to go - combat produces a very different result. Dupont’s fear response and stress response combines to result in nearly continuous leaks during heavy combat. Fortunately, Dupont’s relatively small bladder and bowel size means tape-up diapers have no difficulty containing her accidents. Dupont is unable to change these by herself, and Jiang usually changes them for her. This partnership has actually improved the combat effectiveness of Jiang and Dupont together, as the two soldiers are now very close.
+
+Xuanji “Doc” Jiang, China, support
+
+Bladder
+
+Size: Above Average
+
+Rating: Average
+
+Bowels
+
+Size: Large
+
+Rating: Below Average
+
+Underwear: Tape-Up Diaper
+
+Past 5 missions:
+
+Mission 1: Minor loss of bladder control (77 mL), partial loss of bowel control (120 g)
+
+Mission 2: Partial loss of bladder control (201 mL), partial loss of bowel control (177 g)
+
+Mission 3: Partial loss of bladder control (221 mL), partial loss of bowel control (163 g)
+
+Mission 4: Partial loss of bladder control (210 mL), total loss of bowel control (471 g)
+
+Mission 5: Total loss of bladder control (552 mL), total loss of bowel control (462 g)
+
+Commentary: Jiang’s continence isn’t significantly worse than average, but the fact that she has a slightly below average ability to hold and has a larger than average capacity means tape-up diapers are the safest option. Fortunately, Jiang is totally comfortable with this, and has treated incontinence products as just another piece of equipment. Her medical background makes her less embarrassed by the need. Jiang admitted her lack of bladder control is a side product of not trying very hard to hold it when she needs to go, preferring not to be distracted in combat situations.
+
+She admitted to even once wetting herself in a non-combat situation just to avoid the distracting feeling of needing to urinate badly. She also admitted that once she feels the need to move her bowels, there’s limited time before she involuntarily begins to go, hence frequently messing herself in prolonged combat. While Jiang can change her diaper herself, her partnership with Dupont means Dupont often changes her diaper. This has been a boost to morale for both, with Jiang caring well for Dupont and Dupont less embarrassed by her own needs.
+
+Jessie “Deep Six” Edwards, UK, grenadier
+
+Bladder
+
+Size: Average
+
+Rating: Above Average
+
+Bowels
+
+Size: Average
+
+Rating: Above Average
+
+Underwear: Pullups
+
+Past 5 missions:
+
+Mission 1: Partial loss of bladder control (159 mL), minor loss of bowel control (34 g)
+
+Mission 2: Minor loss of bladder control (77 mL), no loss of bowel control
+
+Mission 3: Partial loss of bladder control (177 mL), minor loss of bowel control (57 g)
+
+Mission 4: Partial loss of bladder control (201 mL), partial loss of bowel control (188 g)
+
+Mission 5: Total loss of bladder control (477 mL), partial loss of bowel control (201 g)
+
+Commentary: Edwards was someone who fluctuated widely during the study but seemed to gravitate towards a weakening control over her bladder and bowels as the missions went on. Some days, she seemed ready for padded panties, while others she seemed a candidate for tape-ups. Some of this fluctuation had to do with fear-based wetting or messing, some perhaps to do with the prolonged exposure to aliens, while another factor seemed to be tied to poor timing - Edwards sometimes didn’t bother using the bathroom before missions. Her most recent mission was a case of this, and this was the only time her pullup leaked - though only mildly, with a mildly visible bulge from her bowels and wet streaks halfway down her thighs.
+
+Anastasia “Ghost” Davydov, Russia, Reaper
+
+Bladder
+
+Size: Small
+
+Rating: Above Average
+
+Bowels
+
+Size: Small
+
+Rating: Above Average
+
+Underwear: Padded panties
+
+Past 5 missions:
+
+Mission 1: Minor loss of bladder control (61 mL), minor loss of bowel control (44 g)
+
+Mission 2: Minor loss of bladder control (81 mL), minor loss of bowel control (27 g)
+
+Mission 3: Minor loss of bladder control (57 mL), minor loss of bowel control (66 g)
+
+Mission 4: Partial loss of bladder control (177 mL), minor loss of bowel control (47 g)
+
+Mission 5: Partial loss of bladder control (167 mL), Partial loss of bowel control (144 g)
+
+Commentary: Davydov is one of the strongest performers in terms of continence, though she also contributes to data that implies exposure to aliens worsens continence; as a Reaper, Davydov has had even more alien exposure than most. Davydov’s continence is also helped by a lack of fear, with her quick wits and experience addressing a wide range of aliens keeping her cool and collected. Trading off minor leaks for continued control of her movement and rifle seems to be her strategy. Her most recent mission stretched her padded panties to the limit, but Davydov remained composed throughout the mission, which meant no one but the researchers who collected her undergarments even knew about her larger than usual loss of control.
+
+Jane “Quiet” Kelly, Ireland, assault
+
+Bladder
+
+Size: Average
+
+Rating: Above Average
+
+Bowels
+
+Size: Large
+
+Rating: Average
+
+Underwear: Padded panties
+
+Past 5 missions:
+
+Mission 1: Minor loss of bladder control (81 mL), minor loss of bowel control (44 g)
+
+Mission 2: Minor loss of bladder control (77 mL), partial loss of bowel control (155 g)
+
+Mission 3: Minor loss of bladder control (85 mL), partial loss of bowel control (161 g)
+
+Mission 4: Partial loss of bladder control (194 mL), minor loss of bowel control (57 g)
+
+Mission 5: Partial loss of bladder control (210 mL), partial loss of bowel control (177 g)
+
+Commentary: Kelly has been the fearless leader of her squad and de facto leader of both squads together. This maturity, experience, and fearlessness has helped her remain one of the more continent soldiers. However, based on how her results have trended in the past 15 missions, especially the past 5, she would warrant being moved to pullups if the study were to be continued. Kelly has endured significant trauma, such as captivity, and it’s unclear if this is contributing to a worsening continence or something more controlled by the aliens.
+
+Whatever the cause, Kelly has not revealed any anxiety or worry about her performance. Her second-most-recent mission resulted in some leaks beyond what her panties could take, but the wet spot was minor. The most recent mission led to a slightly more visible leak and a somewhat visible bulge by the end of the mission, but mission footage from this operation wasn’t used by the propaganda department. She has commanded enough respect from the soldiers that they, too, are not disquieted by Kelly’s loss of control in the past two missions.
+
+Bridget “Oracle” McGregor, Scotland, psi operative
+
+Bladder
+
+Size: Average
+
+Rating: Incontinent
+
+Bowels
+
+Size: Above Average
+
+Rating: Above Average
+
+Underwear: Tape-Up Diaper
+
+Past 5 missions:
+
+Mission 1: Total loss of bladder control (477 mL), no loss of bowel control
+
+Mission 2: Total loss of bladder control (456 mL), minor loss of bowel control (47 g)
+
+Mission 3: Total loss of bladder control x2 (887 mL), minor loss of bowel control (29 g)
+
+Mission 4: Total loss of bladder control (499 mL), minor loss of bowel control (77 g)
+
+Mission 5: Total loss of bladder control x2 (901 mL), partial loss of bowel control (188 g)
+
+Commentary: Like all female psionic operatives, McGregor is essentially bladder incontinent. Interestingly, though, McGregor has an above average control of her bowels. Like Castro, her bladder lets go entirely when using psionic powers, and she has on more than one occasion emptied a her bladder multiple times on a mission. While her bowel control has trended in the wrong direction, McGregor attests the most recent result to enduring a particularly heavy hit to the abdomen, causing her to temporarily lose control.
+
+I tried writing an epilogue but wasn't really happy with it - maybe it's too excessive. But I thought I'd include it anyway in case anyone does like it.
+
+Commander’s Log, 11/27/2035
+
+FOR COMMANDER’S EYES ONLY
+
+After the successful mission against the Elder HQ - with me surviving my bout controlling an Avatar - the ADVENT was easily overrun and is essentially entirely defeated - with legions also joining Pratal Mox and the Skirmishers. While we have some concerning scout reports from the Templars to address, governments around the world hosted congratulatory events to honor XCOM’s work.
+
+Great Britain hosted one in particular that also recognized Zilant & Wyvern Squads. This event was of particular interest to me for reasons only I knew. What I only knew is something I’m a little ashamed of, but I feel the need to document what I observed here. I have been following the scientists’ study regarding female continence with more interest than I should have. One thing participants didn’t know was if it was continued, the scientists had developed eyeglasses that could see through clothing, detect heat, analyze bladder and bowel fullness, and detect moments of incontinence. This would have been turned over to squad leaders Gaustad and Kelly, but we won the war before it was necessary.
+
+So, at this ceremony, I wore said glasses. And I made a special note to observe our Zilant and Wyvern squads. I told myself this was to see if battle continence was connected at all to regular continence… but the truth was I was just a pervert. Regardless, here’s what I saw.
+
+There were delays in security with us flying a Skyranger onto British soil, so we had to rush from our travel straight to the ceremony. Fortunately, my glasses told me the squads were wearing their protection assigned during their missions. I never ordered them to - I wonder if at this point they had gotten comfortable with the protection.
+
+The squads and I were seated on stage in a row while the various British dignitaries spoke at the lectern. I sat in the middle between Jane Kelly and Astrid Gaustad, with Zilant on the left with Astrid and Wyvern on the right with Jane. Jane wore a retro flower-patterned white romper - fashion from the 2010s making a comeback! - and my glasses indicated padded panties underneath. The short romper (which somehow had become acceptable formal wear as people re-interpreted past fashion) showed off her muscular arms and thighs. Next to her was Jessie Edwards and then Bridget McGregor, our two British (well, one Scottish) troops. Jessie was wearing a spectacularly short black dress and pullups and part of me was worried people might see up under her dress. Jessie crossed her legs tightly, though, and it seemed she was safe from that. Bridget also wore a black dress, but a long one that went to her ankles. It was loose enough to hide her tape-up diapers.
+
+Next in line was Marguerite Dupont, who was wearing a form-fitting pink dress that went down to her mid-thighs. I could see her tapping her foot and crossing her legs over each other even from the beginning of the event. Fortunately for her, though, she was wearing her typical tape-up diapers. Marguerite was a short but muscular wavy-haired brunette woman, and despite her curves showing through her pink dress, the diaper wasn’t noticeable. I did seem to detect a hint of a bulge in her belly - whether it was her bladder or bowels or both I was unsure. Next was Xuanji Jiang, who was wearing a light blue blouse and tight black formal pants, despite her tape-up diapers. Fortunately, the combination only served to make her butt look bigger rather than revealing her protection. Finally, Anastasia Davydov was at the end of the row, wearing a black dress not as short as Jesse’s, but down to her mid-thighs.
+
+On my other side, Astrid was tapping one of her feet on the ground as she sat somewhat uncomfortably, wearing a black dress that showed off her back and came down to the top of her knees. She had pullups underneath. Next to her was Ginevra Contarini, who wore a black jumpsuit that was just baggy enough to hide her own pullups. Yessica Castro was wearing black pants and a white shirt with a pattern to honor her ethnic Mexican ancestry. Her black pants were surprisingly tight given her tape-up diapers, but it wasn’t possible to tell she was wearing a diaper; rather, the bulge just made the curvaceous woman look like she had an even more curvaceous butt.n Hannah Campbell was wearing blue trousers and a pink top.
+
+Similar to Yessica, her trousers were tighter than expected but the tape-up diapers merely made the stick-thin Hannah seem to have a larger ass than she really did. Millie Kahl was next, wearing a stretchy and tight green dress that went down to her calves and showed off her muscular build without revealing her pullups. At the end was Monifa Akerele, who was wearing a modestly loose black dress that went down to her knees and had sleeves; she certainly had no major protection to hide, wearing padded panties, so her modesty was a fashion choice.
+
+The medals we were all receiving was the Victoria Cross and we had to listen to speeches from the British Prime Minister, British royalty, and British military leaders. This extended press conference was not good news for us, many of whom were already desperate upon arrival.
+
+I kept glancing to my sides to see who would give up first. Marguerite was gripping the sides of her seat tightly while Astrid was bouncing her legs as they remained tightly crossed. Ginevra, too, had her legs crossed more tightly than necessary. Yessica, Bridget, and Hannah looked uncomfortable too but didn’t show any outward sign except worried faces and tense bodies.
+
+I was not surprised to see Marguerite lose control first. She remained gripping her seat with her legs tightly crossed, but my glasses could see a growing heat in her crotch and identified it as urine. In fact, the glasses were so advanced they gave me an estimate of how much was left in her bladder based on her release. After a minute, my glasses notified me her bladder was empty. Fortunately for her, the tape-up diapers she was assigned could more than easily handle a bladder release, and there was no outward sign of her accident except a slight relaxation of Marguerite’s grip of her own seat.
+
+Astrid let go next, and it was easier to watch her since she was right next to me. As some politician speaker was going on, hogging the limelight with a boring speech, I thought I could almost hear Astrid let go in spurts. She was wearing a pullup and seemed aware of it - the glasses noted the heat under Astrid’s black dress renewed in intervals, with pauses between spurts for a few seconds. The percent estimate left kept going down over the course of a few minutes - 85%, 79%, 70%, 61%, and so forth. Astrid sat still as this process went on, her legs shut closed and her hands in her lap like nothing was wrong. It drove me a little crazy to know that Astrid was slowly peeing sitting right next to me. Eventually, she was empty, and her strategy worked in ensuring her pullups wouldn’t overflow.
+
+As the speeches went on, Yessica let go of her bladder into her taped up diapers, showing no outward sign. Her lack of change in posture and expression was probably the best strategy to avoid anyone noticing. Bridget, less experienced in this, winced a little and shifted her seat, putting her hands in front of her crotch as she let go. She was likely fearful of a leak, but she shouldn’t have since her diapers could take a full bladder.
+
+During the second-to-last speaker, Hannah lost control in a way that surprised me. She shifted her weight to one side of her butt and my glasses detected her bowels let go. She was subtle enough that I think no one noticed, and she was lucky to not experience any loud and embarrassing farts as her diaper filled. She slowly lowered her butt and I imagine felt lucky she had tape-up diapers that could contain the load and the smell. My glasses detected heat up front too, showing some leak from her bladder as well.
+
+As the final speaker wrapped up, we got up to line up and receive the cross from the King of England. I saw Ginevra leak as she got up, her knees knocking together for a second as she steadied her balance. The king beckoned me up first, so I went up to shake his hand and receive the cross in a display box. We paused for a second for a photo and he made an official comment about Britain’s gratitude and then I returned to my seat. This worked out for me as I watched the women in line. Jane & Astrid were up next as the squad leaders, then Bridget and Jesse as British (Bridget being Scottish, to be clear) soldiers.
+
+While they went, my glasses detected Yessica quietly let go of her bowels as well. Like earlier, she again made no visible sign she was letting go, but with my eyes focused on her, I could see just the faintest sign of her loss of control. Her diaper wasn’t really noticeable in her black pants because they just made her butt look bigger rather than reveal she was wearing protection, and her wetting herself hadn’t changed the shape of the diaper. Her bowel loss, however, expanded the bulge just a little bit. Her butt looked just a little bit bigger and I saw the expansion before my eyes. At the end of the day, though, she was fortunate she was wearing our strongest diapers. Despite peeing and pooping herself, they held firm.
+
+My x-ray glasses saw a momentary burst of heat from Marguerite’s rear end as well, along with literally outlining an initial turd stuck between her cheeks. She held firm, though, turtleheading in her diaper. She was up next after Bridget and strode forward to shake the king’s hand. The stride and movement caused her to lose control even further. As she shook hands, posed, and talked to the king, her bowels slowly let go while she pretended nothing was wrong. From behind, I could also see a faint outline of her diaper now through her tight pink dress, but I doubted anyone else would suspect a thing.
+
+The last accident in line was from Millie. While she was posing with the king, I saw she was struggling to hold back both ways and peed in bursts throughout. As she stepped away, too, she let go of her bowels a little. She kept peeing in bursts as she walked back to her seat, along with letting go of her bowels further. The combination of the two meant by the time she got back to her seat, her pullups had leaked. Fortunately for her, it didn’t stain her green dress but ran straight down her legs. Her dress went down to her ankles, so no one likely noticed, but I saw the droplets on the floor by her seat. Millie remained standing instead of sitting, and since she was the second-to-last in line, no one questioned it. Soon after, the ceremony was over and we were encouraged to mingle with the British elites who were attending the ceremony. Despite that, Marguerite, Millie, Hannah, and Yessica all quickly headed out back to the Skyranger.
+
+Ginevra, who had leaked further since I last checked on her, also turned to go. As she walked off stage, though, her bladder and bowels both let go uncontrollably. She took baby steps to the door as she tried to prevent her pullups leaking. I think she was successful in preventing her bowels from leaking, as I didn’t see much evidence without my xray function from behind, but as she turned around momentarily, I saw her black jumpsuit had a darker patch down to her thigh in the front. She was lucky to wear black, though, and I doubted anyone else picked up on it.
+
+As the rest mingled, I could tell Xuanji was trying to work her way to the door in a socially acceptable way. However, with every step was another person who wanted to shake her hand and congratulate her. Inevitably, mid-hand shake, I saw my glasses’ thermal imaging pick up heat from her rear. My glasses identified a turd peeking out into Xuanji’s thick diaper as she talked, pushing out further as she talked to the next person. By the time she was at the door, she had fully lost control, having let go a little bit with each person she gladhanded. Her face blushed red but other than that, she showed no sign of her loss of control. I could tell there was a subtle, larger bulge in the seat of her black pants, but I think she escaped without embarrassment.
+
+Anastasia and Monifa, both known for their stronger control, mingled without visible desperation and headed back to the Skyranger. Bridget, Jesse, Jane, and I were stuck at the party the longest (Bridget and Jesse for being British, Jane and I for our prominent roles), being there another half hour before Bridget managed to extract herself away. I saw Jane had begun leaking into her padded panties. They wouldn’t hold a full loss of control, and soon she managed to escape the crowd too. I followed her out and as she left the crowd, Jane’s pace became frantic. She made a couple turns, clearly looking for a bathroom, before finally finding a hallway with two single-occupancy bathrooms.
+
+I quietly followed, her desperation causing her not to notice. I could see her padded panties overflow with leaks running down her legs, soaking her white romper. As she reached the door, she froze for a moment and I could see a bulge begin to form, pushing back her romper and creating a light shade of brown on the thin, white romper. She hurriedly rushed in, none the wiser that I had seen her lose control. I walked over to the door and could see droplets leading up to it on the floor. I heard rustling as Jane had to undress and take off her romper entirely to empty out her panties - a clear splash indicated when that happened.
+
+As I stood by the bathroom, Jesse arrived. She was hunched over slightly and taking rapid baby steps. Her black dress had ridden up and her muscular legs were totally visible, with just a peek of her white pullups as well. They were lower than usual, too, and I could tell they were sagging due to being full. She seemed surprised to see me and froze in the middle of the hallway. I could see her pullups begin to leak as rivulets went down her pale left leg.
+
+I said, “I was about to use this one but I think it’s occupied. The other one’s free, though.”
+
+She grimaced as her pace slowed to baby steps. “Can you double check it’s free?”
+
+I nodded, stepping into the single occupancy bathroom. For a bathroom in a royal palace, it was quite spartan but clean. I reopened the door, greeted by Jesse with pee freely falling between her legs and onto the floor. I said, “It’s empty, but, uhh…”
+
+I was going to say it was maybe too late, but she pushed me out of the way and rushed into the bathroom, not caring that I hadn’t left the room yet. She lifted her black dress, revealing the full extent of her soaked pullups. I could see the reason for her urgency, as I saw a brown bulge grow as she hurried to the toilet. She pulled her pullups down, but it was too late - the load was in her diaper.
+
+She was blushing bright red, her embarrassment visible on her pale skin. She glanced up however and saw my visible erection through my pants. It was my turn to blush, but she beckoned me over. When I was close enough to her, she wordlessly unzipped my pants and I didn’t stop her. Her dirty pullups still at her ankles, she began to blow me in the bathroom. I was too horny after the day’s events to consider the implications of the situation or the trouble we’d both be in if we were caught - not to mention the diplomatic incident with the British.
+
+As she blew me, she let out a small dribble of the remainder of her bladder and pooped a little as well, ensuring she was totally empty. The sounds were enough and I came in Jesse’s mouth. She swallowed and zipped my pants back up before removing her own pullups and throwing them away. She pulled her dress down, not even caring to wipe, and we walked wordlessly together to the Skyranger - clearly both of us were planning to keep that hookup a secret.
+
+In the Skyranger, everyone grabbed their seats and we took off for our hour-long flight back to the main carrier. My glasses told me who was in trouble. Despite emptying her bladder, Bridget’s bowels were full now, too. Astrid’s was as well, and her pullups would not handle an accident from both ends the way Bridget’s tape up diapers would. Xuanji had emptied her bowels, but her bladder was still relatively full. Anastasia & Monifa, too, were beginning to reach their limit.
+
+Being strapped into the seat, Bridget couldn’t move as her bowels involuntarily gave up. My xray could see the mess escape and spread with little room to expand outward and my sight could see Bridget’s face wince. With the multiple accidents in the ship, it wasn’t really noticeable though. Xuanji, too, gave up and justs fully let go of her bladder. Given the mess in her diaper, there was no point in suffering any longer. She was seated one over from me, and I thought I could even hear the hissing as she fully peed. Anastasia attempted to squeeze her legs shut, but I could see warmth blossom momentarily as she leaked into her padded panties. A leak they could handle, but not much more - she was in trouble.
+
+We finally landed and three women were in trouble - Anastasia, Monifa, and Astrid. The others hurried off the plane to the locker room to clean up, but as we departed I could see Anastasia leak a little more - and this time I didn’t even need the glasses, because I could see a trickle go down her right thigh. As she stepped off the plane, too, my xray picked up her bowels moving, Anastasia pinching off the end of a turd as she stepped off the plane. Her pullups about to overflow and her bowels about to empty, she hurried to the locker room as leaks visibly formed along her thighs. Monifa was close after, and the usually in-control Nigerian had a momentary leak that no one but me knew about - my glasses informing me in the reduction of her bladder load and the warmth in her padded panties. They both, however, made it inside the locker room where I couldn’t follow them.
+
+Astrid followed them in, a fart ringing out as she entered the room declaring her need. She pretended nothing happened as the door shut behind her, but she soon stepped out again. I was about to head to my cabin when she approached me. “Commander… the bathrooms are full in there. This is extremely unprofessional of me, but…” She winced as she likely held back a wave of desperation. “May I use your restroom?”
+
+I nodded, acting like I wasn’t excited by the offer. “Don’t worry about it, that’s fine. Come with me.”
+
+We entered the elevator and Astrid stood stiffly still, holding back her load. As the elevator came to a stop, she let out another fart but pretended it didn’t happen as we got off and entered my room. I could see as we entered that she was losing control. My glasses indicated her bowel contents were dropping slowly and I saw a warm lump begin to enter the seat of her dress. As she opened my bathroom door, I no longer needed even the glasses as I saw the bulge expand and cause her already full pullup to leak old urine down her legs. As she clutched the doorknob, I heard the farts and crackling of her losing control entirely as she vacated her bowels, frozen in shock.
+
+I quickly came up from behind and held her, in part to comfort her and in part to feel her bulge push back against me as she felt my own growing bulge push against her. As she continued to poop, I kissed her on the neck and then pulled off her dress. She was now naked except for her bulging pullups about to overflow. I ripped them off and disposed of them after she finally finished pooping and carried her into my personal shower. Rather than clean her up just yet, I stayed behind her and held her messy rear close as I fingered her before inserting myself. It wasn’t long before we both came and we could finally clean up in the shower.
+
